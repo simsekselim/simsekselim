@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simsekselim&label=Profile%20views&color=0e75b6&style=flat" alt="simsekselim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simsekselim" alt="simsekselim" /></a> </p>
-
 - 🔭 I’m currently working on [Fodamy](https://github.com/simsekselim/SimsekFodamy)
 
 - 🌱 I’m currently learning **Kotlin and Android Studio**
@@ -28,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsekselim&show_icons=true&locale=en&layout=compact" alt="simsekselim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simsekselim&show_icons=true&locale=en" alt="simsekselim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simsekselim&" alt="simsekselim" /></p>
