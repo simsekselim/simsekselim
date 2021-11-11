@@ -17,7 +17,7 @@
 
 
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?simsekselim=simsekselim&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsekselim&show_icons=true&theme=gruvbox)
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
