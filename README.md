@@ -14,7 +14,8 @@
 
 
 <br>
-![download20211104031605](https://user-images.githubusercontent.com/63717328/141214213-04ab4977-0cf2-4377-84de-8219783a4134.png)
+
+<img align="center" src="https://user-images.githubusercontent.com/63717328/141214213-04ab4977-0cf2-4377-84de-8219783a4134.png" alt="simsekselim" /></p>
 
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simsekselim&show_icons=true&locale=en" alt="simsekselim" /></p>
