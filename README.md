@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Android Studio**
 
-- 👨‍💻 All of my projects are available at [selimsimsek.com](selimsimsek.com)
+- 👨‍💻 All of my projects are available at [selimsimsek.com](http://selimsimsek.com)
 
 - 📫 How to reach me **simsekselim06@gmail.com**
 
