@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **simsekselim06@gmail.com**
 
-- 📄 Know about my experiences [http://selimsimsek.com/resume.pdf](http://selimsimsek.com/resume.pdf)
+- 📄 Know about my experiences [http://selimsimsek.com/SELIM%20SIMSEK%20CV.pdf](http://selimsimsek.com/resume.pdf)
 
 
 
