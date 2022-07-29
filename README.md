@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Fodamy](https://github.com/simsekselim/SimsekFodamy)
+- 🔭 I’m currently working on [Compose UI Kit](https://github.com/simsekselim/composeuikit)
 
 - 🌱 I’m currently learning **Kotlin and Android Studio**
 
