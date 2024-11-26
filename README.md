@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Kotlin and Android Studio**
 
-- 👨‍💻 All of my projects are available at [selimsimsek.com](https://simsekselim.com)
+- 👨‍💻 All of my projects are available at [my website](https://simsekselim.com)
 
 - 📫 How to reach me **simsekselim06@gmail.com**
 
-- 📄 Know about my experiences [http://selimsimsek.com/resume.pdf](https://simsekselim.com/resume.pdf)
+- 📄 Know about my experiences [resume](https://simsekselim.com/resume.pdf)
 
 
 
