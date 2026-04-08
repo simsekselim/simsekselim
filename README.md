@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://simsekselim.com)
 
-- 📫 How to reach me **simsekselim06@gmail.com**
+- 📫 How to reach me **simsekselim.dev@gmail.com**
 
 - 📄 Know about my experiences [resume](https://simsekselim.com/resume.pdf)
 
