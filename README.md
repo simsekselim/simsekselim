@@ -7,7 +7,7 @@
 Building scalable mobile applications with modern architecture and clean code.
 
 [Website](https://simsekselim.com) •
-[Resume](https://simsekselim.com/resume.pdf) •
+[Resume](https://simsekselim.com/Selim_Simsek_Resume.pdf) •
 [LinkedIn](https://linkedin.com/in/simsekselim)
 
 </div>
