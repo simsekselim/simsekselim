@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Selim Simsek 👋
+# Hi, I'm Selim SIMSEK 👋
 
 ### Mobile Tech Lead • Android & iOS Engineer
 
