@@ -30,7 +30,7 @@ Building scalable, maintainable mobile applications with modern architecture and
 | Project | Description | Highlights |
 | :------ | :---------- | :--------- |
 | **Akakçe** | Large-scale e-commerce marketplace | Java → Kotlin migration · Clean Architecture · Modularization · Tech leadership |
-| **Banayeni** | Native Android & iOS marketplace app | Cross-platform native · MVVM · CI/CD |
+| **Banayeni** | Native Android & iOS e-commerce marketplace | End-to-end mobile development · MVVM · Production releases · CI/CD |
 
 ---
 
