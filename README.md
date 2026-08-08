@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Selim Şimşek 👋
+# Hi, I'm Selim SIMSEK 👋
 
 ### Mobile Tech Lead · Android & iOS Engineer
 
@@ -47,10 +47,6 @@ Building scalable, maintainable mobile applications with modern architecture and
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
-
-**Architecture**
-
-`MVVM` · `Clean Architecture` · `Modularization` · `Dependency Injection`
 
 **Tools & CI/CD**
 
