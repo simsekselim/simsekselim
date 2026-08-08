@@ -29,10 +29,8 @@ Building scalable, maintainable mobile applications with modern architecture and
 
 | Project | Description | Highlights |
 | :------ | :---------- | :--------- |
-| **Compose UI Kit** | Reusable Jetpack Compose component library | Design system · Theming · Accessibility |
 | **Akakçe** | Large-scale e-commerce marketplace | Java → Kotlin migration · Clean Architecture · Modularization · Tech leadership |
 | **Banayeni** | Native Android & iOS marketplace app | Cross-platform native · MVVM · CI/CD |
-| **Codever** | Mobile code editor with Python execution | In-app runtime · Syntax highlighting |
 
 ---
 
@@ -61,17 +59,6 @@ Building scalable, maintainable mobile applications with modern architecture and
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=simsekselim&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simsekselim&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
